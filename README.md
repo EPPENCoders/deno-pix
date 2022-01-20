@@ -1,2 +1,2 @@
-# deno-pix
-Biblioteca para gerenciamento de pagamentos com PIX
+# Deno PIX
+Biblioteca para gerenciamento de pagamentos com PIX.
